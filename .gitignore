@@ -1,0 +1,6 @@
+
+.vs
+.vscode/settings.json
+
+# 根目录下的 .zip 文件
+/*.zip
